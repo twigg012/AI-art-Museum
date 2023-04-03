@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.1778957, g: 0.22273043, b: 0.30486643, a: 1}
+  m_IndirectSpecularColor: {r: 0.17315376, g: 0.21642052, b: 0.29844096, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -1641,14 +1641,14 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1821061706}
-  m_LocalRotation: {x: 0.84143245, y: -0.12710063, z: 0.22546111, w: 0.4743461}
+  m_LocalRotation: {x: 0.74308974, y: -0.057418372, z: -0.002249979, w: 0.66672015}
   m_LocalPosition: {x: 0, y: 3, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 550269692}
   m_RootOrder: 0
-  m_LocalEulerAnglesHint: {x: 121.177, y: -30, z: 0}
+  m_LocalEulerAnglesHint: {x: 97.85901, y: -324.24, z: -319.758}
 --- !u!114 &1821061709
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2425,10 +2425,10 @@ MonoBehaviour:
   m_DirectionalAnchorRotationAction:
     m_UseReference: 0
     m_Action:
-      m_Name: 
+      m_Name: Directional Anchor Rotation
       m_Type: 0
       m_ExpectedControlType: 
-      m_Id: 
+      m_Id: 666f9e53-45ec-49da-b9f0-0882b9ab8b93
       m_Processors: 
       m_Interactions: 
       m_SingletonActionBindings: []

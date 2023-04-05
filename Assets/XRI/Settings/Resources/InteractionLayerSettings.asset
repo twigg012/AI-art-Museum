@@ -14,11 +14,11 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_LayerNames:
   - Default
-  - Hats
-  - Hanging Pictures
+  - TransparentFX
+  - Ignore Raycast
   - Books
-  - House
-  - Clipboard
+  - Water
+  - UI
   - Measure Stick
   - 
   - 
@@ -44,4 +44,4 @@ MonoBehaviour:
   - 
   - 
   - 
-  - 
+  - Teleport

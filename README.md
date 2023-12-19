@@ -1,9 +1,11 @@
-# AI Art Museum
+# VR Art Museum
  
-Created an Aritificial intelligence art museum using Stable diffusion in my ARTS 204 Class.
+Certainly! Here's a revised and expanded version of your GitHub description:
 
-I leveraged many different prompt making skills throughout this process. I thne took the art and placed it into a unity art museum asset and deployed it to the quest 2.
+Welcome to the Virtual Reality Art Museum, a project crafted during my ARTS 204 class using Unity. This immersive museum is a testament to the fusion of creativity and technology, showcasing an array of artistic wonders in a digital realm.
 
-This file is fully capable of being deployed to the quest 2.
+Embark on a journey through this meticulously designed VR experience, where I've applied a diverse range of prompt-making skills to bring art to life utilizing Stable diffusion to create amazing AI Art based on a theme of the Netherworld. Delve into a world where music harmonizes with visuals, simple yet captivating XR interactions engage your senses, and ambient noise sets the tone for an unforgettable exploration.
 
-There is music, simple XR Interctions and ambient noise. The purpose of this museum was to adhere to project guidelines and create art with text, while also going above and beyond and stretching my skills creatively within the medium to which I am accustomed. Digital games and experiences. This is free to download and has very few dependencies.
+Designed with compatibility in mind, this file is fully deployable to the Quest 2, ensuring seamless access to its captivating content. Within these digital walls, I've pushed the boundaries of conventional art presentation by integrating text and expanding my creative abilities within my familiar medium of digital games and experiences.
+
+This repository is freely available for download, requiring minimal dependencies, and invites you to witness the culmination of dedication, adherence to project guidelines, and an innovative leap beyond expectations.

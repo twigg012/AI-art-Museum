@@ -1,6 +1,4 @@
 # VR Art Museum
- 
-Certainly! Here's a revised and expanded version of your GitHub description:
 
 Welcome to the Virtual Reality Art Museum, a project crafted during my ARTS 204 class using Unity. This immersive museum is a testament to the fusion of creativity and technology, showcasing an array of artistic wonders in a digital realm.
 
